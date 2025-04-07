@@ -1,7 +1,7 @@
 Institución: UNIVERSIDAD TECNOLÓGICA NACIONAL 
 Materia: Programación I 
 Alumno: Juan Cruz Leal 
-Trabajo Práctico N.º 4: Estructuras condicionales  
+Trabajo Práctico N.º 4: Estructuras repetitivas  
 Fecha: 07/04/2025
 
 Contenidos abordados:
